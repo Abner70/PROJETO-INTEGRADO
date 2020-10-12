@@ -11,3 +11,7 @@ git restore -> retorna o arquivo que foi apagado
 echo " texto a ser inserido no arquivo" > Nome do arquivo a ser criado
 git config -l  -> lista o usuario cadastrado
 git config user.name "abner ribeiro"
+git tag + numero da versao
+git reset --hard "numero da versao" -> pra voltar pra versão indicada
+git reset --hard "7 primeiros numeros do hash do commit pra voltar pra versao"
+
