@@ -14,4 +14,8 @@ git config user.name "abner ribeiro"
 git tag + numero da versao
 git reset --hard "numero da versao" -> pra voltar pra versão indicada
 git reset --hard "7 primeiros numeros do hash do commit pra voltar pra versao"
+git branch ->mostra as ramificações
+git branch -d -> deleta uma ramificação
+git branch + nome da ramificação a ser criado -> cria uma nova
+git tag -d + numero da versao -> deleta a tag
 
