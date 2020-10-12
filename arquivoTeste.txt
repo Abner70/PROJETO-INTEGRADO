@@ -1,1 +1,13 @@
 arquivo criado para teste
+git add arquivo  -> adiciona o arquivo
+git status
+git log 
+git init 
+git clone + url do repositorio
+git push origin master 
+git pull origin master
+git commit -m "comentario sobre o arquivo"
+git restore -> retorna o arquivo que foi apagado
+echo " texto a ser inserido no arquivo" > Nome do arquivo a ser criado
+git config -l  -> lista o usuario cadastrado
+git config user.name "abner ribeiro"
